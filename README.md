@@ -1,4 +1,3 @@
-# maheshkurmi.github.io
 Collection of my web apps
 1. ScrewGauge [https://abhishek92kumar.github.io/experiments/micrometer.html]
 
